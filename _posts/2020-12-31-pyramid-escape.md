@@ -8,10 +8,14 @@ tags:
   - game
 ---
 
+
 Goal: Escape the pyramid
+
 
 Controls:
 
 Move: hold WASD or Arrows
+
 Run: move while holding shift
+
 Jump: press spacebar
